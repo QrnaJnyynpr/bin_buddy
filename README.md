@@ -1,5 +1,6 @@
 # Bin Buddy
 ###### Email reminders to take the bins out, sent via GMail using the [smtplib](https://docs.python.org/3/library/smtplib.html) library.
+###### Lesson credit: [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 Written as a learning exercise so I could figure out how to send emails using Python.
  
